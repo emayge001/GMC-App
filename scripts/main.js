@@ -1,1 +1,1 @@
-my first my java page
+my first java page now
